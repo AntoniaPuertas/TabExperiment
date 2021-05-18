@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tab Experiment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="texto_fragment_1">Hola desde el fragmento 1</string>
+    <string name="texto_fragment_2">Hola desde el fragmento 2</string>
+    <string name="texto_fragment_3">Hola desde el fragmento 3</string>
+    <string name="tab_1">Tab 1</string>
+    <string name="tab_2">Tab 2</string>
+    <string name="tab_3">Tab 3</string>
+</resources>
